@@ -1,0 +1,8 @@
+#title{
+    color: aqua;
+    position: absolute;
+    z-index: 1;
+    top: -100;
+    left: 700;
+    font-size: 150;
+}
