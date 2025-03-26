@@ -6,3 +6,12 @@
     left: 700;
     font-size: 150;
 }
+
+#venus{
+    color: aqua;
+    position: absolute;
+    z-index: 1;
+    top: 200;
+    left: 650;
+    height: 500;
+}
